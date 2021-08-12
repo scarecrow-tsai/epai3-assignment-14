@@ -1,5 +1,7 @@
 # epai3-assignment-14
 
+All the functions are present in `session14.py`. The notebook is `main_nb.ipynb`.
+
 For this project we have 4 files containing information about persons.
 
 - `personal_info.csv` - personal information such as name, gender, etc. (one row per person)
